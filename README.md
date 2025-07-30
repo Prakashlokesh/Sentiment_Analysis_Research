@@ -1,7 +1,3 @@
-Here’s a **well-structured README.md** for your **Social Media Sentiment Analysis for Police Departments** project:
-
----
-
 # 📊 Social Media Sentiment Analysis for Police Departments
 
 ## Overview
