@@ -39,7 +39,6 @@ This project analyzes public perception of **police departments** through **Twit
 
   * `Twitter API` – Data collection
   * `BeautifulSoup`, `Tweepy` – Web scraping and data retrieval
-
 ---
 
 ## Features
@@ -56,47 +55,6 @@ This project analyzes public perception of **police departments** through **Twit
 * Analyzed **233k+ tweets** to measure public sentiment towards police departments.
 * Identified major public concerns and sentiment fluctuations related to key events.
 * Provided **recommendations** to improve community relations and communication strategies.
-
----
-
-## Project Structure
-
-```
-├── data/                # Raw and processed datasets  
-├── notebooks/           # Jupyter notebooks with analysis steps  
-├── scripts/             # Python scripts for data collection & preprocessing  
-├── models/              # NLP models and configurations  
-├── visualizations/      # Plots and charts generated  
-└── README.md            # Project documentation  
-```
-
----
-
-## How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/police-sentiment-analysis.git
-   cd police-sentiment-analysis
-   ```
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run data collection (requires Twitter API credentials).
-4. Execute sentiment analysis and visualization scripts:
-
-   ```bash
-   python analyze_sentiment.py
-   ```
-
----
-
-## Sample Visualization
-
-(Include an example graph or chart showing sentiment trends here)
 
 ---
 
